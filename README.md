@@ -46,3 +46,7 @@ This reflects a broader design focus on building reliable AI systems by addressi
 - Structuring real-world data pipelines
 - Applying AI to financial decision processes
 - Identifying where automation creates real value
+
+## Relevance
+
+This project explores how AI can support complex analytical workflows in real-world settings. It focuses on structuring decision processes, improving data reliability, and identifying where AI adds meaningful value in financial analysis.
